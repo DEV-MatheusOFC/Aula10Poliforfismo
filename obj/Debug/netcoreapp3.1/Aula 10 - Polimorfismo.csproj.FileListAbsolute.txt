@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Senai - Atividades\Aula 10 - Polimorfismo\bin\Debug\netcoreapp3.1\Aula 10 - Polimorfismo.exe
+C:\Users\admin\Desktop\Senai - Atividades\Aula 10 - Polimorfismo\bin\Debug\netcoreapp3.1\Aula 10 - Polimorfismo.deps.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 10 - Polimorfismo\bin\Debug\netcoreapp3.1\Aula 10 - Polimorfismo.runtimeconfig.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 10 - Polimorfismo\bin\Debug\netcoreapp3.1\Aula 10 - Polimorfismo.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 10 - Polimorfismo\bin\Debug\netcoreapp3.1\Aula 10 - Polimorfismo.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 10 - Polimorfismo\bin\Debug\netcoreapp3.1\Aula 10 - Polimorfismo.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 10 - Polimorfismo\obj\Debug\netcoreapp3.1\Aula 10 - Polimorfismo.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 10 - Polimorfismo\obj\Debug\netcoreapp3.1\Aula 10 - Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 10 - Polimorfismo\obj\Debug\netcoreapp3.1\Aula 10 - Polimorfismo.AssemblyInfo.cs
+C:\Users\admin\Desktop\Senai - Atividades\Aula 10 - Polimorfismo\obj\Debug\netcoreapp3.1\Aula 10 - Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 10 - Polimorfismo\obj\Debug\netcoreapp3.1\Aula 10 - Polimorfismo.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 10 - Polimorfismo\obj\Debug\netcoreapp3.1\Aula 10 - Polimorfismo.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 10 - Polimorfismo\obj\Debug\netcoreapp3.1\Aula 10 - Polimorfismo.genruntimeconfig.cache
